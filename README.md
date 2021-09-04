@@ -6,12 +6,12 @@
 - Declarar a função em um define
 - Recursão em funções
 
-# Ponteiros
+## Ponteiros
 - O que são?
 - Por que usar?
 - Alocação dinâmica?
 
-# Containers
+## Containers
 - array
 - vector
 - list
